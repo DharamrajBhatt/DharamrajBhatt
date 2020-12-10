@@ -72,4 +72,3 @@ Traval enthusiast
 | 12. | [Analysis of different Sorting Algorithms](https://github.com/ManishShah120/Analysis-of-Sorting-Algorithm) |
 | 13. | [Basics of sk-Learn](https://github.com/ManishShah120/sk-learn-Basics) |
 </details> -->
--->
